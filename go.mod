@@ -7,5 +7,5 @@ require (
 )
 
 replace (
-	jmb19905.net/styling => ../styling
+	jmb19905.net/styling => ./styling
 )
